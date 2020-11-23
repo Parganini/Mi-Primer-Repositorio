@@ -1,0 +1,12 @@
+La principal diferencia es que, a lado del nombre del repositorio privado, aparece un pequeño letreo de "Private".
+
+En la sección de pestañas del púplico aparece la opción de "Wiki", a diferencia del privado. En esa pestaña, se permite crear páginas del wiki del proyecto.
+
+En las pestañas de "Issues" y "Pull requests" del público aparece un mensaje de "etiqueta los asuntos y peticiones para los nuevos contribuyentes".
+
+La pestaña de "Insights" del privado no está activado hasta que no se asignen accesos.
+
+En la pestaña de "Settings" del privado aparece un mensaje que menciona que "la prevista social no será visible mientras el repositorio sea privado"
+
+Repositorio público: https://github.com/Parganini/Mi-Primer-Repositorio
+Repositorio privadoÑhttps://github.com/Parganini/Mi-Segundo-Repositorio
